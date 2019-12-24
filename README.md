@@ -25,8 +25,13 @@ browser=-firefox.exe
 
 
 
-##备份host文件，以管理员身份运行
-init.txt 
+#备份host文件，以管理员身份运行
+
+#init.txt 
+
 填写ip地址
-url.txt
+
+#url.txt
+
 填写url地址路径即可
+
